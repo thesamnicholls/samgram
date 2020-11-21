@@ -1,4 +1,4 @@
-# samagram
+# samgram
 Instagram Clone
 
 ### TODO:
